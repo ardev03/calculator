@@ -1,4 +1,5 @@
 {
+  "homepage": "https://ardev03.github.io/calculator",
   "devDependencies": {
     "gh-pages": "^6.3.0"
   },
